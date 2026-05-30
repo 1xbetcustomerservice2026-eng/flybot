@@ -3,7 +3,7 @@ from pathlib import Path
 
 _BASE_DIR = Path(__file__).parent.parent
 
-BOT_TOKEN: str = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+BOT_TOKEN: str = os.environ.get("8869833081:AAHS9V7cGFwjjQE5ISBEhk9eGRmf_KfOfVo", "")
 ADMIN_ID: int = 8796417770
 
 DEFAULT_CHANNEL_INVITE: str = "https://t.me/+mNXgNZ86X9RiNjg0"
